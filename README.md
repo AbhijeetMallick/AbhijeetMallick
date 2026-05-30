@@ -1,15 +1,88 @@
+# Hi 👋 I'm Abhijeet Mallick
+
+Mobile Platform Engineer and Engineering Leader with 10+ years of experience building mobile applications, SDKs, developer tooling, and platform infrastructure.
+
+I enjoy building tools, platforms, and workflows that help developers move faster.
+
+---
+
+## 🚀 What I'm Building
+
+I'm building open-source projects focused on:
+
+- 📱 Mobile Developer Experience (DevEx)
+- 🛠 Swift libraries and tooling
+- ⚙️ CI/CD and Release Automation
+- 📦 Mobile SDK Development
+- 🤖 AI-assisted Developer Workflows
+- 🏗 Mobile Platform Engineering
+
+My goal is to share practical tools and learnings from building and scaling mobile platforms.
+
+---
+
+## 🔭 Current Focus
+
+- Learning Rust for developer tooling
+- Building Swift open-source utilities
+- Exploring AI-powered development workflows
+- Writing about mobile platform engineering
+- Creating small developer-focused products and tools
+  
 # 💫 About Me:
-## About Me<br><br>I enjoy building tools that make developers faster.<br><br>Over the last decade I've worked across:<br><br>- Mobile SDK development<br>- Analytics platforms<br>- Build & release infrastructure<br>- Application architecture<br>- Engineering leadership<br><br>My current interests include:<br><br>- Swift<br>- Mobile Architecture<br>- Build Systems<br>- CI/CD<br>- Developer Tooling<br>- AI-assisted Developer Workflows
+Over the last decade I've worked across:
+
+- Mobile SDK Development
+- Analytics Platforms
+- Build & Release Infrastructure
+- Application Architecture
+- Developer Productivity
+- Engineering Leadership
+
+Currently working on improving reliability, developer experience, and engineering efficiency at scale.
+
+## 🛠 Tech Stack
+
+### Mobile
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### Developer Tooling & Automation
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-82BD4E?style=flat-square&logo=fastlane&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhijeet-mallick-9b826744/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/5916808/abhijeet-mallick) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallickabhijeet387@gmail.com) 
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=flat-square&logo=fastlane&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AbhijeetMallick&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AbhijeetMallick&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhijeetMallick&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5916808/abhijeet-mallick)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mallickabhijeet387@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=AbhijeetMallick&theme=default_repocard&hide_border=false&include_all_commits=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhijeetMallick&theme=default_repocard&hide_border=false&layout=compact)
+
+---
+
+## ✍️ Future Writing Topics
+
+- Mobile Platform Engineering
+- Swift & iOS Architecture
+- CI/CD for Mobile Teams
+- Developer Productivity
+- Engineering Leadership
+- Building Open Source Projects
+- AI for Mobile Developers
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
